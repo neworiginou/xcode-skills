@@ -1,4 +1,4 @@
-# 通过Behaviors控制Xcode的行为
+# 通过Behaviors实现批量操作
 
 > 前言：在xcode中运行app时，底部的调试区就会随之出现，这就是通过xcode的**Behaviors**实现的。
 

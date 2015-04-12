@@ -8,14 +8,14 @@
 
 ### 二. 如何添加
 
-1. 首先，打开新建文件窗口（command + N）：iOS -> Other -> PCH file，创建一个pch文件。
+(1) 首先，打开新建文件窗口（command + N）：iOS -> Other -> PCH file，创建一个pch文件。
 
 ![新建pch文件](../images/new_pch.png)
 
 
-2. 其次，选择工程的 TARGETS -> Build Settings，搜索 `prefix header`，将上一步新建的pch文件的路径添加到该选项中。
+(2) 其次，选择工程的 TARGETS -> Build Settings，搜索 `prefix header`，将上一步新建的pch文件的路径添加到该选项中。
 
 ![在build setting中设置新pch文件的路径](../images/set_pch_path.png)
 
 
-3. 最后，编译一遍，新添加的pch文件就可以使用了。
+(3) 最后，编译一遍，新添加的pch文件就可以使用了。

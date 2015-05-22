@@ -7,3 +7,5 @@
 * [Xcode项目引入外部文件夹，不能引用问题](http://blog.csdn.net/qin2366552891/article/details/9008787)
 * [Instruments 用户指南](http://www.cocoachina.com/bbs/read.php?tid=92026)
 * [Xcode and #pragma mark](http://www.360doc.com/content/13/1210/22/2036337_336192229.shtml)
+* [苹果Xcode帮助文档阅读指南](http://ourcoders.com/thread/show/117)
+* [如何给项目添加framework](http://www.cnblogs.com/SeeMeFly/archive/2011/09/09/2172688.html)

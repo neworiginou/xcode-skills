@@ -9,3 +9,5 @@
 * [Xcode and #pragma mark](http://www.360doc.com/content/13/1210/22/2036337_336192229.shtml)
 * [苹果Xcode帮助文档阅读指南](http://ourcoders.com/thread/show/117)
 * [如何给项目添加framework](http://www.cnblogs.com/SeeMeFly/archive/2011/09/09/2172688.html)
+* [那些不能错过的Xcode插件](http://www.cocoachina.com/industry/20130918/7022.html)
+* [xcode6 文档自动标注VVDocumenter更新后支持](http://jingyan.baidu.com/article/c45ad29cc9e33c051653e210.html)

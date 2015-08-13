@@ -17,6 +17,8 @@
 	* [Understanding and Analyzing iOS Application Crash Reports](https://developer.apple.com/library/ios/technotes/tn2151/_index.html)
 	* [iOS Crash文件的解析（一）](http://www.cnblogs.com/smileEvday/p/Crash1.html)
 	* [flurry](http://www.flurry.com/solutions/analytics) -- iOS crash日志分析工具
+* **断点**
+	* [断点详解](http://www.cocoachina.com/ios/20150805/12842.html)
 * **Xcode Target General Identity Team无法修改为None解决方案**
 	* [方案一](http://blog.csdn.net/jianjianyuer/article/details/45097681)
 	* 方案二：打开AlinkApp.xcodeproj/project.pbxproj文件，把`DevelopmentTeam = xxxxx;`删掉。
